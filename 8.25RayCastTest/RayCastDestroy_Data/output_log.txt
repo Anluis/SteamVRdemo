@@ -1,0 +1,51 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   NVIDIA
+    VRAM:     6100 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\WorkSpace\8.25RayCastTest\RayCastDestroy_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\WorkSpace\8.25RayCastTest\RayCastDestroy_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\WorkSpace\8.25RayCastTest\RayCastDestroy_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\WorkSpace\8.25RayCastTest\RayCastDestroy_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\WorkSpace\8.25RayCastTest\RayCastDestroy_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\WorkSpace\8.25RayCastTest\RayCastDestroy_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\WorkSpace\8.25RayCastTest\RayCastDestroy_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\WorkSpace\8.25RayCastTest\RayCastDestroy_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.051 seconds
+Platform assembly: D:\WorkSpace\8.25RayCastTest\RayCastDestroy_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\WorkSpace\8.25RayCastTest\RayCastDestroy_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initialized touch support.
+OpenVR initialized!
+ 
+(Filename:  Line: 312)
+
+UnloadTime: 0.680262 ms
+Connected to lighthouse:LHR-8D2A4C84
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 195c -> priority: 1 
+  Thread -> id: 1260 -> priority: 1 
+Controller on index '3' is POINTER IN at a distance of 0.9681113 on object named Capsule - the pointer tip position is/was: (-97.0, 12.5, -29.7)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Controller on index '3' is POINTER IN at a distance of 3.82306 on object named Sphere - the pointer tip position is/was: (-80.0, 21.6, 57.7)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Controller on index '3' is POINTER IN at a distance of 3.505921 on object named Cube - the pointer tip position is/was: (-83.7, -5.7, 55.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+OpenVR Shutdown
+ 
+(Filename:  Line: 660)
+
